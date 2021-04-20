@@ -15,5 +15,6 @@ public class Main {
 //      The result should be the "no args provided" message. (Be sure to capitalize where needed!)
 //      To add arguments, just add them after java run code, separated by a space:
 //          java edu.Bootcamp.Main Hello "my name is" Eyke
+//      Notice that arguments are divided by spaces, but spaces are allowed within a single argument's quotation marks. 
     }
 }
