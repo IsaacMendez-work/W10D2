@@ -45,7 +45,7 @@ System.out.println("Examples of how Strings are compared: ");
 
 
 //      A key difference between primitive data types and a class like String is that classes have built-in functions. These functions (also known as methods) allow us to operate on data.
-//      String Class methods include length (.length), creating new string(s) from existing ones (.concat, .replace, .toLowerCase, .toUpperCase, .trim, .split), extracting substring (.charAt, .substring), testing substrings (.contains, .endsWith, .startsWith, .indexOf, .lastIndexOf), comparing (.equals, .equalsIgnoreCase, .isEmpty, .compareTo, .compareToIgnoreCase), formatting (.format), and stringing for non-Strings (.valueOf). An example of working with strings: 
+//      String Class methods include length (.length), creating new string(s) from existing ones (.concat, .replace, .toLowerCase, .toUpperCase, .trim, .split), extracting substring (.charAt, .substring), testing substrings (.contains, .endsWith, .startsWith, .indexOf, .lastIndexOf), comparing (.equals, .equalsIgnoreCase, .isEmpty, .compareTo, .compareToIgnoreCase), formatting (.format), and stringing for non-Strings (.valueOf). An example of working with strings:
 
 System.out.println("\nConverting non-String types to Strings:");
         // Java would not allow you to set an int variable's value equal to a String. For example int numberVar = "100" will return an error. However, we can use .valueOf() to convert the int into a String:
